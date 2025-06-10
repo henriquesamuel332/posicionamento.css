@@ -19,7 +19,7 @@ body {
 
 #design-selection {
   position: absolute;
-  top: 560px;         /* Inicia após a introdução */
+  top: 370px;         /* Inicia após a introdução */
   left: 62%;          /* Começa depois da .explanation */
   padding: 0 2%;      /* Espaçamento interno horizontal */
 }
